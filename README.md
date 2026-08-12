@@ -39,7 +39,7 @@ Este perfil faz parte da construção do meu portfólio, onde estou organizando 
 * Postman
 * Robot Framework
 * VS Code
-* SQL básico
+* Java
 
 ## 📌 Projetos em construção
 
